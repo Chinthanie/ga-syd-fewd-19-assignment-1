@@ -1,0 +1,104 @@
+/* Vertical menu */
+
+div.menu {
+    padding: 0;
+    margin-top: 90px;
+    margin-left: -150px;
+    float: left;
+    text-decoration: 
+    
+}
+
+ul, a:link, a:visited  {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    text-align: left;
+    color: slategrey;
+    list-style-type: none;
+    color: slategrey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cadetblue;
+    
+}
+
+/* LinkedIn icon*/
+
+div.linkedin {
+    float: right;
+    margin-top: 60px;
+    padding-right: 40;
+    
+}
+
+/* Body */
+body {
+    float: left;
+    padding-top: 0;
+    margin-left: 150px;
+}
+
+/* Title*/
+h1 {
+    float: left;
+    margin-left: -118;
+    margin-top: 20px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    color: slategrey;
+
+    
+}
+
+
+
+/* Paragraph styling */
+
+div.description {
+    padding-right: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: darkslategrey;
+    line-height: 1.7;
+    
+}
+
+div.resume {
+    margin-top: 100px;
+    padding-top: 1;
+    line-height: 1;
+    
+}
+
+div.resume, h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    color: cadetblue;
+    line-height: 1
+    
+}
+
+
+div.resume, h3  {
+    margin-left: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 2;
+    color: slategrey;
+
+
+}
+
+
+
+
+
+/*
+FONTS
+'Amatic SC', cursive;
+'Montserrat', sans-serif;
+'Open Sans', sans-serif;
+'Amatic SC', cursive;
